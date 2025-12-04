@@ -159,7 +159,7 @@ def render_state_html(state):
 
 st.set_page_config(page_title="8-Puzzle Search Lab", page_icon="🧩", layout="centered")
 
-st.title("🧩 8-Puzzle Search Lab (Streamlit)")
+st.title("🧩 8-Puzzle Search Lab")
 st.markdown(
     """
 Use this interactive lab to **visualize search algorithms** on the 8-puzzle.
